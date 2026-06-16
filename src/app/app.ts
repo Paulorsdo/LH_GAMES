@@ -25,10 +25,10 @@ import { Rodape } from './rodape/rodape';
   imports: [
     Login,
     Menu,
+    Inicio,
     Rodape,
     BrowserModule,
     AppRoutingModule,
-   // BrowserAnimationsModule,
     MatButtonModule,
     MatCardModule,
     MatFormFieldModule,
